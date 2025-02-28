@@ -1,0 +1,1 @@
+cmd_/home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/main.mod := { echo  /home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/main.o;  echo; } > /home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/main.mod

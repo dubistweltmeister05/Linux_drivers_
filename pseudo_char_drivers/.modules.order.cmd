@@ -1,0 +1,1 @@
+cmd_/home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/modules.order := {   echo /home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/main.ko; :; } | awk '!x[$$0]++' - > /home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/modules.order

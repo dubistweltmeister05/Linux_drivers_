@@ -1,0 +1,1 @@
+cmd_/home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/Module.symvers := sed 's/ko$$/o/' /home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/modules.order | scripts/mod/modpost -m    -o /home/ronin/Desktop/workspace/ldd/custom_drivers/pseudo_char_drivers/Module.symvers -e -i Module.symvers   -T -
