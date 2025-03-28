@@ -1,0 +1,1 @@
+cmd_/home/ronin/Desktop/workspace/ldd/custom_drivers/003_pcd_multiple/Module.symvers := sed 's/ko$$/o/' /home/ronin/Desktop/workspace/ldd/custom_drivers/003_pcd_multiple/modules.order | scripts/mod/modpost -m    -o /home/ronin/Desktop/workspace/ldd/custom_drivers/003_pcd_multiple/Module.symvers -e -i Module.symvers   -T -

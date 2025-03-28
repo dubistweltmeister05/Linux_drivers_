@@ -1,0 +1,1 @@
+cmd_/home/ronin/Desktop/workspace/ldd/custom_drivers/003_pcd_multiple/pcd_n.mod := { echo  /home/ronin/Desktop/workspace/ldd/custom_drivers/003_pcd_multiple/pcd_n.o;  echo; } > /home/ronin/Desktop/workspace/ldd/custom_drivers/003_pcd_multiple/pcd_n.mod
